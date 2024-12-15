@@ -16,8 +16,6 @@ MARC is a comprehensive web-based platform designed to streamline and enhance th
 
 - [**Project Structure**](#project-structure)
 
-- [**License**](#license)
-
 - [**Contact**](#contact)
 
 ## Main Entities
@@ -255,9 +253,6 @@ MaterialOrder "1" --> "1" Accounts : requests approval
 Accounts "1" --> "N" MaterialOrder : approves/rejects
 ```
 
-## License
-
-This project is licensed under the [Northeastern University](https://graduate.northeastern.edu/program/master-of-science-in-software-engineering-systems-18774/).
 
 ## Contact
 
