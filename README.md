@@ -1,7 +1,3 @@
-# Project Recording
-
-https://northeastern-my.sharepoint.com/:v:/r/personal/karuthappandian_r_northeastern_edu/Documents/ConsoleLog%20(MARC)-%20Recording.mp4?csf=1&web=1&e=8oSZnu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
 # MARC - Building Smarter, Managing Better
 
 MARC is a comprehensive web-based platform designed to streamline and enhance the workflow in the building construction industry. By providing a centralized system for tracking and analyzing all construction activities, MARC reduces the workload and administrative burden on contractors, improves communication between key entities, and ensures a well-organized process flow
