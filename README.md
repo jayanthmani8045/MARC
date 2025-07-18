@@ -2,6 +2,8 @@
 
 MARC is a comprehensive web-based platform designed to streamline and enhance the workflow in the building construction industry. By providing a centralized system for tracking and analyzing all construction activities, MARC reduces the workload and administrative burden on contractors, improves communication between key entities, and ensures a well-organized process flow
 
+[![MARC](https://github.com/jayanthmani8045/MARC/blob/main/MARC.jpg)]([target_url](https://github.com/jayanthmani8045/MARC/blob/main/MARC.jpg))
+
 ## Table of Contents
 
 - [**MARC - Building Smarter, Managing Better**](#marc---building-smarter-managing-better)
